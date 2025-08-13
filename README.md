@@ -4,25 +4,25 @@ A simple, polished implementation of the classic 2048 game built with Pygame.
 
 This repository contains a lightweight, animated version of 2048 with smooth tile spawn/slide/merge animations, dynamic tile font sizing, score tracking, win detection, and restart support.
 
-Demo:
+# Demo
 Note: This repository does not include any assets or demo GIFs yet. If you want to add a demo GIF or screenshot later, create an assets/ or docs/ folder and put the file there (for example assets/demo.gif), then update this section with the relative path.
 
-# Features:
+# Features
 - Full 4×4 2048 gameplay mechanics
 - Smooth animations for sliding, spawning, and merging tiles
 - Dynamic tile font sizing so large numbers fit the tiles
 - Win detection (tile ≥ 2048) and Game Over detection
 - Clean, minimal UI and layout
 
-# Controls:
+# Controls
 - Arrow keys — Move tiles (Up, Down, Left, Right)
 - How to run (local)
 
-# Clone the repo:
+# Clone the repo
 - git clone https://github.com/JenJen-Great/2048-with-Pygame
 
 
-# Customization ideas:
+# Customization ideas
 - Add undo functionality (store previous board states)
 - Save and display a persistent high score file
 - Add sound effects for moves/merges
@@ -31,7 +31,7 @@ Note: This repository does not include any assets or demo GIFs yet. If you want 
 - Add a compact mobile/responsive layout and package with PyInstaller or brief web port using Pygbag
 
 
-# Contributing:
+# Contributing
 - Contributions are welcome! A suggested workflow:
 - Fork the repo
 - Create a branch feature/your-feature
@@ -40,11 +40,11 @@ Note: This repository does not include any assets or demo GIFs yet. If you want 
 - Please keep commits small and focused. If adding features, include screenshots or a short GIF in docs/.
 
 
-# Credits & Acknowledgements:
+# Credits & Acknowledgements
 - Built using Pygame
 - Inspired by the original 2048 game by Gabriele Cirulli
 - This project was developed with assistance from an AI assistant (ChatGPT). All code was reviewed and adapted by me.
 
-# Contact:
+# Contact
 If you want me to help polish the README (add badges, a demo GIF, or a separate LICENSE file), prepare a requirements.txt, or generate a small demo GIF for the repo, tell me what you'd like and I can update the document for you.
 
