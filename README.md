@@ -45,3 +45,7 @@ Note: This repository does not include demo GIFs yet. If you want to add a demo 
 - Inspired by the original 2048 game by Gabriele Cirulli
 - This project was developed with assistance from an AI assistant (ChatGPT). All code was reviewed and adapted by me.
 
+# License 
+This project is licensed under the MIT License — see the LICENSE file for details.
+
+
