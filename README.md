@@ -12,15 +12,14 @@ Note: This repository does not include demo GIFs yet. If you want to add a demo 
 - Smooth animations for sliding, spawning, and merging tiles
 - Dynamic tile font sizing so large numbers fit the tiles
 - Win detection (tile ≥ 2048) and Game Over detection
-- Clean, minimal UI and layout
 
 # Controls
 - Arrow keys — Move tiles (Up, Down, Left, Right)
-- How to run (local)
 
 # Clone the repo
-- git clone https://github.com/JenJen-Great/2048-with-Pygame
-
+<pre>
+<code>git clone https://github.com/JenJen-Great/2048-with-Pygame</code>
+</pre>
 
 # Customization ideas
 - Add undo functionality (store previous board states)
@@ -37,8 +36,6 @@ Note: This repository does not include demo GIFs yet. If you want to add a demo 
 - Create a branch feature/your-feature
 - Make changes and test locally
 - Open a pull request describing your changes
-- Please keep commits small and focused. If adding features, include screenshots or a short GIF in docs/.
-
 
 # Credits & Acknowledgements
 - Built using Pygame
