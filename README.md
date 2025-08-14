@@ -20,7 +20,9 @@ Note: This repository does not include demo GIFs yet. If you want to add a demo 
 - Python 3.8+
 - Pygame
 - Install Pygame:
-pip install pygame
+<pre>
+<code>pip install pygame</code>
+</pre>
 
 # Run the game
 - From your project root, run:
