@@ -16,6 +16,18 @@ Note: This repository does not include demo GIFs yet. If you want to add a demo 
 # Controls
 - Arrow keys — Move tiles (Up, Down, Left, Right)
 
+# Requirements
+- Python 3.8+
+- Pygame
+- Install Pygame:
+pip install pygame
+
+# Run the game
+- From your project root, run:
+<pre>
+  <code>python main.py</code>
+</pre>
+
 # Clone the repo
 <pre>
 <code>git clone https://github.com/JenJen-Great/2048-with-Pygame</code>
