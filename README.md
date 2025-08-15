@@ -5,7 +5,7 @@ A simple, polished implementation of the classic 2048 game built with Pygame.
 This repository contains a lightweight, animated version of 2048 with smooth tile spawn/slide/merge animations, dynamic tile font sizing, score tracking, win detection, and restart support.
 
 # Demo (Screen Shot)
-<img width="500" height="548" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/1c329574-eaff-42c8-8a10-31d5f80f30f1" />
+<img width="400" height="448" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/1c329574-eaff-42c8-8a10-31d5f80f30f1" />
 
 # Features
 - Full 4×4 2048 gameplay mechanics
