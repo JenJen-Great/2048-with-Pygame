@@ -42,9 +42,9 @@ This repository contains a lightweight, animated version of 2048 with smooth til
 # Contributing
 
 - Fork the repo
--Create a branch feature/your-feature
--Make changes and test locally
--Open a pull request describing your changes
+- Create a branch feature/your-feature
+- Make changes and test locally
+- Open a pull request describing your changes
 
 
 
