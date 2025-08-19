@@ -41,12 +41,14 @@ This repository contains a lightweight, animated version of 2048 with smooth til
 
 # Contributing
 - Contributions are welcome! A suggested workflow:
+<code>
 <ul>
   <li>Fork the repo</li>
   <li>Create a branch feature/your-feature</li>
   <li>Make changes and test locally</li>
   <li>Open a pull request describing your changes</li>
 </ul>
+</code>
 
 # Credits & Acknowledgements
 - Built using Pygame
