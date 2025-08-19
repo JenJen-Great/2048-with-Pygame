@@ -30,11 +30,6 @@ This repository contains a lightweight, animated version of 2048 with smooth til
   <code>python main.py</code>
 </pre>
 
-# Clone the repo
-<pre>
-<code>git clone https://github.com/JenJen-Great/2048-with-Pygame</code>
-</pre>
-
 # Customization ideas
 - Add undo functionality (store previous board states)
 - Save and display a persistent high score file
