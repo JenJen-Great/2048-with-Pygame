@@ -41,15 +41,20 @@ This repository contains a lightweight, animated version of 2048 with smooth til
 
 # Contributing
 - Contributions are welcome! A suggested workflow:
-- Fork the repo
-- Create a branch feature/your-feature
-- Make changes and test locally
-- Open a pull request describing your changes
+<pre>
+  <code>
+    <ul>
+      <li>Fork the repo</li>
+      <li>Create a branch feature your-feature</li>
+      <li>Make changes and test locally</li>
+      <li>Open a pull request describing your changes</li>
+    </ul>
+  </code>
+</pre>
 
 # Credits & Acknowledgements
 - Built using Pygame
 - Inspired by the original 2048 game by Gabriele Cirulli
-- This project was developed with assistance from an AI assistant (ChatGPT). All code was reviewed and adapted by me.
 
 # License 
 This project is licensed under the MIT License — see the LICENSE file for details.
