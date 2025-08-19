@@ -44,10 +44,10 @@ This repository contains a lightweight, animated version of 2048 with smooth til
 <pre>
 <code>
 <ul>
-  <li>Fork the repo</li>
-  <li>Create a branch feature/your-feature</li>
-  <li>Make changes and test locally</li>
-  <li>Open a pull request describing your changes</li>
+<li>Fork the repo</li>
+<li>Create a branch feature/your-feature</li>
+<li>Make changes and test locally</li>
+<li>Open a pull request describing your changes</li>
 </ul>
 </code>
 </pre>
